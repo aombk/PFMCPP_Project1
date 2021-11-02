@@ -100,13 +100,13 @@ detective.acceptBribe();
 //  action 3: the detective misses clues
 detective.missClue();
 //  7)
-//  Noun: friend
-//  action 1: the friend gives advice
-friend.giveAdvice(); // I wonder, why is "friend" marked in blue?
-//  action 2: the friend hides motives
-friend.hideMotives();
-//  action 3: the friend becomes enemy
-friend.becomeEnemy();
+//  Noun: new Friend
+//  action 1: the new friend walks faster
+newFriend.walkFaster(); // I wonder, why is "friend" marked in blue?
+//  action 2: the new friend tries harder
+newFriend.tryHarder();
+//  action 3: the new friend lasts a bit longer
+newFriend.lastLonger();
 //  8)
 //  Noun: duck
 //  action 1: the duck wakes up
