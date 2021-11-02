@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: eye
+//  action 1: the eye rolls
+eye.roll();
+//  action 2: the eye looks
+eye.look();
+//  action 3: the eye watches each and every one of us
+eye.watchEveryone();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: mind
+//  action 1: the wanders wanders
+mind.wander();
+//  action 2: the mind malfunctions
+mind.malfunction();
+//  action 3: the mind forgets
+mind.forget();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: boss
+//  action 1: the boss opresses
+boss.opress();
+//  action 2: the boss pays
+boss.forget();
+//  action 3: the boss fires
+boss.setMeFree();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: car
+//  action 1: the car crashes
+car.crash();
+//  action 2: the car repairs itself
+car.repairSelf();
+//  action 3: the car refuses to move
+car.die();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: boat
+//  action 1: the boat sails
+boat.sail();
+//  action 2: the boat is leaking
+boat.leak();
+//  action 3: the boat sinks
+boat.sink();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: detective
+//  action 1: the detective investigates
+detective.investigate();
+//  action 2: the detective accepts bribe
+detective.acceptBribe();
+//  action 3: the detective misses clues
+detective.missClue();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: friend
+//  action 1: the friend gives advice
+friend.giveAdvice();
+//  action 2: the friend hides motives
+friend.hideMotives();
+//  action 3: the friend becomes enemy
+friend.becomeEnemy();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: duck
+//  action 1: the duck wakes up
+duck.wakeUp();
+//  action 2: the duck crosses the road
+duck.CrossRoad();
+//  action 3: the duck regrets action 2
+duck.regretAction2();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: drill
+//  action 1: the drill drills a hole
+drill.drillHole();
+//  action 2: the drill harms the users body
+drill.harmBody();
+//  action 3: this is not a drill
+drill.notA();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: you
+//  action 1: you made me do this
+you.makeMeDo();
+//  action 2: you love teaching, its obvious
+you.loveTeaching();
+//  action 3: you go to a party
+you.goToParty();
 
 
 #endif
