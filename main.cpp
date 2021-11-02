@@ -107,6 +107,7 @@ friend.giveAdvice();
 friend.hideMotives();
 //  action 3: the friend becomes enemy
 friend.becomeEnemy();
+// I wonder, why is "friend" marked in blue?
 //  8)
 //  Noun: duck
 //  action 1: the duck wakes up
